@@ -7,7 +7,7 @@ let palabra = prompt("Ingresa una palabra");
 
 document.write("<h1> Entero: "+ numeroEntero +"</h1>");
 document.write("<h2> Booleano: "+ booleano +"</h2>");
-document.write("<h3> Decimal:  "+ decimal +"</h3>");
+document.write("<h3> Decimal:  "+ numeroDecimal +"</h3>");
 document.write("<h4> Caracter: "+ caracter +"</h4>");
 document.write("<h5> Palabra(conjunto de caracteres): "+ palabra +"</h5>");
 
